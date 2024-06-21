@@ -21,9 +21,17 @@ For UNESCO - Education > "Percentage of Grdautaes by Field of Education (Tertiar
 
 Analysis Done:
 Using NCES Database (Table 318.45): 
-- Years vs Total Number of Degrees handed out (Years vs Total_Degrees): 
-    - Time Series
-    - Year-over-Year Growth
+- Analysis Over Time
+    - Years vs Total Number of Degrees handed out (Years vs Total_Degrees): 
+        - Time Series
+        - Year-over-Year Growth
+    - Years vs Total Number of Degrees per Degree Level
+        - Stacked Area Chart
+        - Bar Chart
+- Demographics
 
 
+Struggles:
+- Finding Data
+- SPlitting the Excel into dataframes - the excel sheet contained multiple data in one sheet
     
