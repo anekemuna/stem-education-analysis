@@ -29,6 +29,7 @@ Using NCES Database (Table 318.45):
         - Stacked Area Chart
         - Bar Chart
 - Demographics
+    - Pie chart for gender total for each year
 
 
 Struggles:
