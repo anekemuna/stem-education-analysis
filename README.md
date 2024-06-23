@@ -17,7 +17,7 @@ https://nces.ed.gov/programs/digest/d23/tables/dt23_505.10.asp
 
 UNESCO Database: 
 https://data.uis.unesco.org/ 
-For UNESCO - Education > "Percentage of Grdautaes by Field of Education (Tertiary Education)" > "Percentage of Graduates STEM progammes in Tertiary Education, both sexes (%)"
+For UNESCO - Education > "Percentage of Graduates by Field of Education (Tertiary Education)" > "Percentage of Graduates STEM progammes in Tertiary Education, both sexes (%)"
 
 Analysis Done:
 Using NCES Database (Table 318.45): 
@@ -30,6 +30,8 @@ Using NCES Database (Table 318.45):
         - Bar Chart
 - Demographics
     - Pie chart for gender total for each year
+
+Using UNESCO Database
 
 
 Struggles:
