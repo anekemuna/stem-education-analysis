@@ -32,6 +32,7 @@ Using NCES Database (Table 318.45):
     - Pie chart for gender total for each year
 
 Using UNESCO Database
+    - Chloropleth map showcasing STEM tertiary graduates by country and year (intercative plotly)
 
 
 Struggles:
