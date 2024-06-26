@@ -32,7 +32,9 @@ Using NCES Database (Table 318.45):
     - Pie chart for gender total for each year
 
 Using UNESCO Database
-    - Chloropleth map showcasing STEM tertiary graduates by country and year (intercative plotly)
+    - Chloropleth map showcasing STEM tertiary graduates by country and year (interactive plotly)
+    - line plot to track top 10 countries from 2017 - 2021 with the highest stem graduates
+
 
 
 Struggles:
